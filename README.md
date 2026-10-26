@@ -28,7 +28,7 @@ A one-way physical-state mirror is a digital shadow under this lab's working tax
 - [Communication measurement methodology](docs/communication/methodology.md)
 - [Open-source projects and contribution targets](docs/open-source-projects.md)
 - [References and limits](docs/references.md)
-- [Initial issue drafts](docs/initial-issues.md)
+- [Initial Issues #1–#8](docs/initial-issues.md)
 - [Publication instructions](docs/publishing.md)
 
 ## Existing components, separate ownership

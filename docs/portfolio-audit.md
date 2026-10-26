@@ -52,7 +52,7 @@ Execuções históricas abaixo não são testes executados nesta auditoria, nem 
 4. Preparar laboratório com arquitetura, v0.1–v1.0, protocolo experimental, alvos open source e oito Issues redigidas.
 5. Validar documentação e registrar commits separados.
 
-O laboratório não foi encontrado na listagem pública; a consulta autenticada ao nome retornou 404. O conector não oferece criação de repositório. A alternativa autorizada é entregar um repositório Git local publicável, com Issues preparadas. Não confundir isso com publicação no GitHub.
+Na auditoria inicial, o laboratório não foi encontrado na listagem pública e a consulta autenticada retornou 404. Depois da preparação local, a gravação pelo conector retornou 403. A autenticação Git local funcionou e a conta Pedronsjaja foi verificada pela API antes de criar o novo repositório. Resultado: documentação publicada em physical-ai-digital-twin-lab, com oito Issues e labels. Código funcional dos projetos existentes permaneceu inalterado.
 
 ## Trilha de estudo
 

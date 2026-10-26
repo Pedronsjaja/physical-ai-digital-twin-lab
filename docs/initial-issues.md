@@ -1,6 +1,6 @@
 # Initial issue drafts
 
-These eight items are prepared locally, **not created on GitHub**. Publish only after the repository exists; check for duplicates first. Labels are suggestions. Reserve good first issue for a task reviewed and bounded by the maintainer; hardware integration is not automatically beginner-safe.
+These eight items were published as [Issues #1–#8](https://github.com/Pedronsjaja/physical-ai-digital-twin-lab/issues) on 2026-10-26. Their numbers below match GitHub. Topic labels were created and applied; good first issue was created but not assigned before task-scope review. Hardware integration is not automatically beginner-safe.
 
 ## 1. Define Digital Twin Lab architecture
 
